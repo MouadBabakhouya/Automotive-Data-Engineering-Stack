@@ -1,4 +1,4 @@
-# 🚗 Moroccan Automotive Market — Real-Time Data Engineering Pipeline
+# 🚗 Moroccan Automotive Market Real-Time Data Engineering Pipeline
 
 A comprehensive **End-to-End Data Pipeline** designed to scrape, process, and visualize real-time data from the Moroccan automotive market. The system provides actionable insights into vehicle pricing trends, brand popularity, and market fluctuations across Moroccan cities.
 
